@@ -6,6 +6,7 @@ This repository contains code for interacting with the Game Boy cartridge MBC. Y
 	**Game boy Advance**, change the number 0x800000 depending on the size of the game.
 2. Run the code for Game Boy (Color)
     > python3 GBC.py
+    
    Run the code for Game Boy Advance
     > python3 GBA.py
 
