@@ -13,7 +13,7 @@ This repository contains code for interacting with the Game Boy cartridge MBC. Y
 ### Notes
 * GBA have support for two modes nonSequential and sequential. The sequential mode is faster, but it seems more unstable (maybe longer delays can fix that).
 * Check the __init__ of the classes for the GPIO layout.
-* Currently no plans for adding support for reading/writing save files, but I can add it if there is a demand.
+* No plans for adding support for reading/writing save files, but I can add it if there is a demand.
 * I changed my coding style after this project :=)
 
 ***No warranty is given. No complaints will be answered.***
